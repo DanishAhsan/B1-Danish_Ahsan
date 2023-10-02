@@ -1,16 +1,20 @@
-# demo
+# Login Page and Home Page
 
-A new Flutter project.
+--> this is a login  page and Home page with email and password validaton by using flutter,
 
-## Getting Started
+here are some screenshots of projects --->
+# login page
+![LogIn](https://github.com/DanishAhsan/B1-Danish_Ahsan/assets/140892693/d5567bd7-24bd-498b-a186-d5aa15c6542f)
 
-This project is a starting point for a Flutter application.
+# Email validator
+![validate1](https://github.com/DanishAhsan/B1-Danish_Ahsan/assets/140892693/2b84c0f2-cfad-4415-9dad-691d8d29be2f)
 
-A few resources to get you started if this is your first Flutter project:
+# password validator
+![validate2](https://github.com/DanishAhsan/B1-Danish_Ahsan/assets/140892693/87bb17e7-3f97-443d-81c2-331d85379b8b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# home page
+![Home Page](https://github.com/DanishAhsan/B1-Danish_Ahsan/assets/140892693/dde75695-a175-493d-bace-562d58a02696)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## to chceck the validation of the login page enter the username - gencare@examle.com
+and password must be - 'password'
