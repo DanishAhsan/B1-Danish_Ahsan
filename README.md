@@ -16,5 +16,8 @@ here are some screenshots of projects --->
 ![Home Page](https://github.com/DanishAhsan/B1-Danish_Ahsan/assets/140892693/dde75695-a175-493d-bace-562d58a02696)
 
 
-## to chceck the validation of the login page enter the username - gencare@examle.com
+* to chceck the validation of the login page enter the username - gencare@examle.com
 and password must be - 'password'
+
+* valid email and password will lead to the Home Page.
+  
